@@ -72,11 +72,14 @@ print(f"Received {data!r}")
 ```
 
 ## OUTPUT:
+
  Echoserver:
+ 
  ![image](https://github.com/Subhikshaa13/Echoserver/assets/118787344/d30adb03-e371-4bbb-8632-02facbbccf01)
 
 
 CLient side:
+
 ![image](https://github.com/Subhikshaa13/Echoserver/assets/118787344/37aa6ab3-d386-4778-b13f-4d8c768f53cb)
 
 
